@@ -3,20 +3,20 @@
 ### Mercredi 26/02/2025 :
 
 
-* [ ] Comprendre le métier de développeur, aperçu sur le mindset du dev
-* [ ] Élaboration d'une stratégie pour l'anglais
-* [ ] Savoir comment aborder la gestion de son temps
-* [ ] Savoir comment poser des questions
-* [ ] Savoir comment aborder un problème
+* [x ] Comprendre le métier de développeur, aperçu sur le mindset du dev
+* [x ] Élaboration d'une stratégie pour l'anglais
+* [x ] Savoir comment aborder la gestion de son temps
+* [x ] Savoir comment poser des questions
+* [x ] Savoir comment aborder un problème
 
 #### Environnement de travail
 
-* [ ] Configuration de son environnement de travail
-  * [ ] Mise à jour OS (Linux, Windows, Mac)
-  * [ ] Installation (Discord)
-  * [ ] Installation navigateur (Developper Edition)
-  * [ ] Création et configuration Mail pro 
-  * [ ] Création et configuration Twitter pro 
+* [x ] Configuration de son environnement de travail
+  * [x ] Mise à jour OS (Linux, Windows, Mac)
+  * [x ] Installation (Discord)
+  * [x ] Installation navigateur (Developper Edition)
+  * [x ] Création et configuration Mail pro 
+  * [x ] Création et configuration Twitter pro 
 
 * [ ] Découverte de Linux :
   * [ ] Savoir ce qu'est Linux
