@@ -4,21 +4,23 @@
 
 ### Architecture N-Tiers et MVC - Mise en Pratique
 
-- [ ] Implémentation d'une Architecture N-Tiers
-  - [ ] Mise en place de la couche données
-    - [ ] Accès aux données / Repository
-    - [ ] Modèles de données / Entités
+- [x] Implémentation d'une Architecture N-Tiers
+
+  - [x] Mise en place de la couche données
+    - [x] Accès aux données / Repository
+    - [x] Modèles de données / Entités
   - [ ] Mise en place de la couche métier
     - [ ] Services
-	- [ ] DTO
-	- [ ] Conversion DTO / Entités
+  - [ ] DTO
+  - [ ] Conversion DTO / Entités
     - [ ] Logique applicative
   - [ ] Mise en place de la couche présentation
     - [ ] Contrôleurs
-	- [ ] Interface utilisateur
+  - [ ] Interface utilisateur
     - [ ] Gestion des entrées/sorties
 
 - [ ] Implémentation du Pattern MVC
+
   - [ ] Création des Modèles
     - [ ] Définition des entités
     - [ ] Logique métier
@@ -31,6 +33,7 @@
   - [ ] Comparer avec le pattern MVVM
 
 - [ ] Bonnes Pratiques
+
   - [ ] Séparation des responsabilités
   - [ ] Injection de dépendances
   - [ ] Gestion des erreurs
@@ -40,8 +43,7 @@
   - [ ] Développement d'une application simple (Brief Site e-commerce)
   - [ ] Application des patterns étudiés
   - [ ] Tests de l'architecture
-  - [ ] Revue de code 
-  
+  - [ ] Revue de code
 - [ ] Bonus
   - [ ] Découverte de l'architecture micro-Services
   - [ ] Comprendre le principe de l'API Gateway
