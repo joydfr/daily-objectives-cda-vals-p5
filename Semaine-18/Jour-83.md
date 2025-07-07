@@ -4,9 +4,9 @@
 
 ### Les Tests End-to-End (E2E)
 
-- [ ] Comprendre l'objectif : simuler un parcours utilisateur complet dans l'application, depuis le navigateur
-- [ ] Comprendre la place des tests E2E dans la pyramide des tests (moins nombreux, plus lents, mais cruciaux)
-- [ ] Identifier les scénarios utilisateurs critiques à couvrir par des tests E2E
+- [x] Comprendre l'objectif : simuler un parcours utilisateur complet dans l'application, depuis le navigateur
+- [x] Comprendre la place des tests E2E dans la pyramide des tests (moins nombreux, plus lents, mais cruciaux)
+- [x] Identifier les scénarios utilisateurs critiques à couvrir par des tests E2E
 
 ### Découverte et pratique d'un outil de test E2E
 
@@ -18,7 +18,6 @@
   - [ ] Localiser des éléments (`getByRole`, `locator`, `get`)
   - [ ] Interagir avec les éléments (`click`, `fill`, `type`)
   - [ ] Écrire des assertions sur l'état de la page (`expect(page).toHaveTitle`, `expect(element).toBeVisible`)
-
 
 ### Exercice Pratique
 
